@@ -1,0 +1,23 @@
+# Python
+ml-api/venv/
+ml-api/__pycache__/
+*.pyc
+
+# Node
+client/node_modules/
+server/node_modules/
+
+# Environment Variables
+client/.env
+server/.env
+ml-api/.env
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
