@@ -199,7 +199,7 @@ function Predict() {
                 fontWeight={700}
                 mt={2}
               >
-                ₹ {Number(price).toLocaleString("en-IN")}
+                $ {Number(price).toLocaleString("en-US")}
               </Typography>
             </CardContent>
           </Card>
